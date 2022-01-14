@@ -72,17 +72,6 @@ Para poner en funcionamiento a ISA es necesario seguir los siguentes pasos:
 ##### ¡LISTO! ya puedes escribirle a ISA atravez de telegram con el usuario @Isabella_Unibot
 
 
-En otro terminal dentro de ISA_fin:
-
-*ngrok http 5005
-
-Copiar el fowarding desde "https" hasta "ngrok.io" y en el archivo credentials de rasa pegar lo que copió en frente de "webhook_url:" seguido de "/webhooks/telegram/webhook" todo dentro de comillas
-
-Guarde el archivo con "CTRL + s"
-
-Luego de haber hecho el cambio en cedentials se procede a acceder a la pagina y hacer click en el botton de "Actializar ISA"
-
-
 
 
 
